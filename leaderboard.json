@@ -1,12 +1,12 @@
 [
-  { "name": "Sangwon", "score": 87 },
-  { "name": "Jungin", "score": 91 },
-  { "name": "Minah", "score": 75 },
-  { "name": "Jinkyu", "score": 83 },
-  { "name": "Juyeon", "score": 68 },
-  { "name": "Haewon", "score": 80 },
-  { "name": "Hyojoo", "score": 90 },
-  { "name": "Minkyu", "score": 72 },
-  { "name": "Donghyun", "score": 78 },
-  { "name": "Inkyeom", "score": 65 }
+  { "name": "Sangwon", "score": 400 },
+  { "name": "Jungin", "score": 600 },
+  { "name": "Minah", "score": 560 },
+  { "name": "Jinkyu", "score": 790 },
+  { "name": "Juyeon", "score": 200 },
+  { "name": "Haewon", "score": 680 },
+  { "name": "Hyojoo", "score": 900 },
+  { "name": "Minkyu", "score": 820 },
+  { "name": "Donghyun", "score": 330 },
+  { "name": "Inkyeom", "score": 650 }
 ]
